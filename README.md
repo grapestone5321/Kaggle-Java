@@ -179,3 +179,15 @@ Java tutorial for beginners full course
 #81 (11:50:51)  executable (.jar) ☕
 
 -----
+
+## Create Your First Java Program from Scratch in Minutes
+
+https://www.youtube.com/watch?v=6WYJLkd3R9M&list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8
+
+Coding with John
+
+
+
+
+
+-----
